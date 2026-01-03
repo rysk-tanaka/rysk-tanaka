@@ -23,18 +23,34 @@
 </div>
 
 
+## 📊 WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
+
+![WakaTime Languages](https://wakatime.com/share/@rysk/3e301990-3fce-4ffe-831f-c3718ea40d8d.svg)
+
+### 1. athul/waka-readme (Simple Bar Graph)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 2. anmol098/waka-readme-stats (Detailed Stats)
+<!--START_SECTION:waka-stats-->
+<!--END_SECTION:waka-stats-->
+
+### 3. avinal/Profile-Readme-WakaTime (SVG Graph)
+<img src="./images/wakatime-stats.svg" alt="WakaTime Stats SVG" />
+
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
