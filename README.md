@@ -25,6 +25,10 @@
 
 ## 📊 WakaTime Stats
 
+[![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
+
+![WakaTime Languages](https://wakatime.com/share/@rysk/3e301990-3fce-4ffe-831f-c3718ea40d8d.svg)
+
 ### 1. athul/waka-readme (Simple Bar Graph)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
