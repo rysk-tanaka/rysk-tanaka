@@ -5,11 +5,14 @@ on:
     - cron: "30 0 * * *" # 毎日9:30 JST (0:30 UTC)
   workflow_dispatch: # 手動実行も可能
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time # last_7_days, last_30_days, all_time
