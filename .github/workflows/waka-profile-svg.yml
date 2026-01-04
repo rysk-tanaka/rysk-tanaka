@@ -12,20 +12,9 @@ jobs:
   update-svg:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
       - uses: avinal/Profile-Readme-WakaTime@v4
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          OUTPUT_FILE: images/wakatime-stats.svg
-          SHOW_TITLE: true
-          BLOCK_STYLE: STARTER # STARTER, CLASSIC, COMPACT
-          TIME_RANGE: all_time # last_7_days, last_30_days, last_6_months, last_year, all_time
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/wakatime-stats.svg
-          git diff --staged --quiet || git commit -m "Update WakaTime SVG stats"
-          git push || echo "Push failed, possibly due to concurrent updates"
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          BRANCH: main
+          STATS_RANGE: all_time
