@@ -54,7 +54,7 @@ jsonc          0 secs          ░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-stats-->
 
 ### 3. avinal/Profile-Readme-WakaTime (SVG Graph)
-<img src="./images/wakatime-stats.svg" alt="WakaTime Stats SVG" />
+<img src="./images/stat.svg" alt="WakaTime Stats SVG" />
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
