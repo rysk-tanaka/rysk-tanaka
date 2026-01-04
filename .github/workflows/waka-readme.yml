@@ -12,7 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@v4
+      - uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time # last_7_days, last_30_days, all_time
