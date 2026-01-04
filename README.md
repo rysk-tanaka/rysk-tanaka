@@ -28,22 +28,6 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 55 mins
-
-Other          5 hrs 10 mins   █████████████████████▒░░░   84.77 %
-Markdown       39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Terraform      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-TOML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-terraform      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-JSON           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-shell script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-jsonc          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 <!--
