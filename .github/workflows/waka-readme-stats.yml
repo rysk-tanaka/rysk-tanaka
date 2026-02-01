@@ -20,7 +20,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE: "False"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
@@ -29,4 +29,3 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False" # True causes npm/node:path error
           LOCALE: "ja"
-          IGNORED_LANGUAGES: "Other"
