@@ -29,3 +29,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False" # True causes npm/node:path error
           LOCALE: "ja"
+          IGNORED_LANGUAGES: "Other"
