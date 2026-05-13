@@ -28,7 +28,7 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-530900%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-530905%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -66,7 +66,7 @@ Typora                   1 hr 13 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/05/2026
+ Last Updated on 13/05/2026
 <!--END_SECTION:waka-->
 
 <!--
