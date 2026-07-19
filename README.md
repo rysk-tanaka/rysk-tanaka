@@ -28,7 +28,7 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532701%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532705%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,12 +42,12 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+Monday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
 Tuesday      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
 Wednesday    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
 Thursday     40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
 Friday       46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.82% 
-Saturday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
+Saturday     142 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
 Sunday       306 commits    █████████░░░░░░░░░░░░░░░░   38.73%
 
 ```
@@ -57,16 +57,16 @@ Sunday       306 commits    █████████░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     19 hrs 10 mins      █████████████░░░░░░░░░░░░   52.76% 
-Claude Code              11 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   32.91% 
-ZedPreview               4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-Obsidian                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78% 
-Typora                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+cmux                     15 hrs 5 mins       ██████████████░░░░░░░░░░░   57.79% 
+Claude Code              6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.4% 
+ZedPreview               3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+Obsidian                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
+Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 ```
 
 
- Last Updated on 18/07/2026
+ Last Updated on 19/07/2026
 <!--END_SECTION:waka-->
 
 <!--
