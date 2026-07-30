@@ -28,7 +28,7 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-533133%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-533132%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -44,10 +44,10 @@
 ```text
 Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
 Tuesday      80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Wednesday    90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+Wednesday    91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
 Thursday     40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
 Friday       47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
-Saturday     140 commits    █████░░░░░░░░░░░░░░░░░░░░   19.58% 
+Saturday     139 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
 Sunday       232 commits    ████████░░░░░░░░░░░░░░░░░   32.45%
 
 ```
@@ -57,16 +57,16 @@ Sunday       232 commits    ████████░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     12 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.58% 
-Claude Code              7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   30.72% 
-ZedPreview               3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-Obsidian                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-Typora                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
+cmux                     12 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.52% 
+Claude Code              6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   26.31% 
+ZedPreview               4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
+Obsidian                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
+VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
 
 ```
 
 
- Last Updated on 29/07/2026
+ Last Updated on 30/07/2026
 <!--END_SECTION:waka-->
 
 <!--
