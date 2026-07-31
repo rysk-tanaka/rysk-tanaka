@@ -57,16 +57,16 @@ Sunday       232 commits    ████████░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     12 hrs 7 mins       ████████████░░░░░░░░░░░░░   49.52% 
-Claude Code              6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   26.31% 
-ZedPreview               4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Obsidian                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
-VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0%
+cmux                     13 hrs 25 mins      █████████████░░░░░░░░░░░░   54.96% 
+Claude Code              6 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.78% 
+ZedPreview               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+VS Code                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+Zed                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19%
 
 ```
 
 
- Last Updated on 30/07/2026
+ Last Updated on 31/07/2026
 <!--END_SECTION:waka-->
 
 <!--
