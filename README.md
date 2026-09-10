@@ -28,7 +28,7 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531817%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531821%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -43,8 +43,8 @@
 
 ```text
 Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
-Tuesday      78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
-Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
+Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.95% 
 Thursday     46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
 Friday       43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
 Saturday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
@@ -57,16 +57,16 @@ Sunday       209 commits    ████████░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     15 hrs 50 mins      ████████████████░░░░░░░░░   66.43% 
-Claude Code              6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.51% 
-ZedPreview               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-Typora                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94% 
-Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+cmux                     16 hrs 29 mins      ██████████████░░░░░░░░░░░   57.66% 
+Claude Code              9 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.77% 
+ZedPreview               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
+Typora                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
+Zed                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 ```
 
 
- Last Updated on 08/09/2026
+ Last Updated on 10/09/2026
 <!--END_SECTION:waka-->
 
 <!--
