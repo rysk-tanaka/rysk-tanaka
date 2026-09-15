@@ -28,7 +28,7 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531822%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-531820%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,13 +42,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
 Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
 Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
 Thursday     48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.54% 
-Friday       42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.59% 
+Friday       41 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
 Saturday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-Sunday       209 commits    ████████░░░░░░░░░░░░░░░░░   32.81%
+Sunday       208 commits    ████████░░░░░░░░░░░░░░░░░   32.65%
 
 ```
 
@@ -57,16 +57,16 @@ Sunday       209 commits    ████████░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     16 hrs 3 mins       ████████████░░░░░░░░░░░░░   50.48% 
-Claude Code              12 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   38.95% 
-ZedPreview               3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
-Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+cmux                     15 hrs 32 mins      ███████████░░░░░░░░░░░░░░   47.06% 
+Claude Code              14 hrs              ██████████░░░░░░░░░░░░░░░   42.39% 
+ZedPreview               3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 ```
 
 
- Last Updated on 14/09/2026
+ Last Updated on 15/09/2026
 <!--END_SECTION:waka-->
 
 <!--
