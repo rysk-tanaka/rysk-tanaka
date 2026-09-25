@@ -28,27 +28,27 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-532084%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529159%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.01% 
-🌆 Daytime    293 commits    ███████████░░░░░░░░░░░░░░   45.85% 
-🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.62% 
-🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52%
+🌞 Morning    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
+🌆 Daytime    295 commits    ███████████░░░░░░░░░░░░░░   46.02% 
+🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.51% 
+🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
-Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
-Thursday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
-Friday       38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.95% 
-Saturday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Sunday       205 commits    ████████░░░░░░░░░░░░░░░░░   32.08%
+Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
+Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
+Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
+Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
+Saturday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+Sunday       205 commits    ████████░░░░░░░░░░░░░░░░░   31.98%
 
 ```
 
@@ -57,16 +57,16 @@ Sunday       205 commits    ████████░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     9 hrs 59 mins       ████████████░░░░░░░░░░░░░   49.17% 
-Claude Code              8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   42.21% 
-ZedPreview               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-Antigravity CLI          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
-Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+cmux                     9 hrs 9 mins        ████████████░░░░░░░░░░░░░   50.74% 
+Claude Code              7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.95% 
+ZedPreview               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
+Antigravity CLI          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97% 
+Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
 
 ```
 
 
- Last Updated on 24/09/2026
+ Last Updated on 25/09/2026
 <!--END_SECTION:waka-->
 
 <!--
