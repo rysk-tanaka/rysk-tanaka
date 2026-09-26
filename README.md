@@ -28,13 +28,13 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-529159%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-528921%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
-🌆 Daytime    295 commits    ███████████░░░░░░░░░░░░░░   46.02% 
+🌞 Morning    33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+🌆 Daytime    294 commits    ███████████░░░░░░░░░░░░░░   45.87% 
 🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   36.51% 
 🌙 Night      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48%
 
@@ -46,8 +46,8 @@ Monday       79 commits     ███░░░░░░░░░░░░░░�
 Tuesday      80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
 Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
 Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
-Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.62% 
-Saturday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+Friday       37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
+Saturday     105 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.38% 
 Sunday       205 commits    ████████░░░░░░░░░░░░░░░░░   31.98%
 
 ```
@@ -57,16 +57,16 @@ Sunday       205 commits    ████████░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     9 hrs 9 mins        ████████████░░░░░░░░░░░░░   50.74% 
-Claude Code              7 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.95% 
-ZedPreview               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-Antigravity CLI          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97% 
-Codex Vscode             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
+cmux                     8 hrs               ████████████░░░░░░░░░░░░░   49.61% 
+Claude Code              5 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.95% 
+ZedPreview               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Antigravity CLI          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
+Typora                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
 
 ```
 
 
- Last Updated on 25/09/2026
+ Last Updated on 26/09/2026
 <!--END_SECTION:waka-->
 
 <!--
