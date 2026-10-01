@@ -28,7 +28,7 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-527781%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-527808%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -44,11 +44,11 @@
 ```text
 Monday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
 Tuesday      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
+Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
 Thursday     56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.68% 
-Friday       35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
+Friday       34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
 Saturday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
-Sunday       205 commits    ████████░░░░░░░░░░░░░░░░░   31.78%
+Sunday       204 commits    ████████░░░░░░░░░░░░░░░░░   31.63%
 
 ```
 
@@ -57,16 +57,16 @@ Sunday       205 commits    ████████░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-cmux                     15 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.27% 
-Claude Code              11 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   38.22% 
-ZedPreview               2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.67% 
-Codex Vscode             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+Claude Code              16 hrs 1 min        ███████████░░░░░░░░░░░░░░   43.95% 
+cmux                     15 hrs 56 mins      ███████████░░░░░░░░░░░░░░   43.74% 
+ZedPreview               2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
+Codex Vscode             49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 ```
 
 
- Last Updated on 30/09/2026
+ Last Updated on 01/10/2026
 <!--END_SECTION:waka-->
 
 <!--
