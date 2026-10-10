@@ -28,7 +28,7 @@
 [![wakatime](https://wakatime.com/badge/user/a4e47c62-40e5-4023-abb4-476c836af411.svg)](https://wakatime.com/@rysk)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537901%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-537627%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -46,8 +46,8 @@ Monday       85 commits     ███░░░░░░░░░░░░░░�
 Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
 Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
 Thursday     58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
-Saturday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
+Friday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.32% 
+Saturday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
 Sunday       206 commits    ███████░░░░░░░░░░░░░░░░░░   31.16%
 
 ```
@@ -57,16 +57,16 @@ Sunday       206 commits    ███████░░░░░░░░░░�
 
 ```text
 🔥 Editors: 
-Claude Code              25 hrs 39 mins      ███████████████░░░░░░░░░░   60.0% 
-cmux                     13 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   32.53% 
-ZedPreview               1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
-Codex Vscode             53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
-Zed                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+Claude Code              25 hrs 47 mins      ████████████████░░░░░░░░░   64.98% 
+cmux                     10 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   26.86% 
+ZedPreview               1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4% 
+Codex Vscode             1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
+Zed                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 ```
 
 
- Last Updated on 09/10/2026
+ Last Updated on 10/10/2026
 <!--END_SECTION:waka-->
 
 <!--
